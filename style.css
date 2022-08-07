@@ -1,0 +1,116 @@
+*{
+    font-family:fantasy;
+}
+/* head */
+.dawa{
+    margin: 5px;
+}
+.dawa1{
+color: gray;
+margin: 5px;
+font-size: 20px;
+}
+
+.dawa2{
+    margin: 5px;
+
+
+}
+.hr{
+
+padding-right:50px;
+
+}
+
+hr1{
+    padding-left: 50px;
+    margin-left: 50px;
+
+}
+/* first page */
+
+
+.main{
+  margin: 50px 150px ;
+
+
+}
+
+.sub{
+font-size: 20px;
+ margin: 0px;
+
+}
+
+.head {
+margin: 0px;
+padding: 0px 0px;
+}
+.head p{
+    margin: 0px;
+}
+
+.date{
+    font-style: italic;
+color: gray;
+margin: 0px 0px;
+
+}
+
+.sec1 {
+
+    display: inline-block;
+    /* background-color: blue; */
+
+    width: 50%;
+
+
+}
+
+ul{
+padding: 0px;
+
+}
+li{
+    margin: 15px;
+}
+
+
+/* second page */
+.sec2 {
+    margin-left: 80px;
+    display: inline-block;
+    /* background-color: red; */
+
+    width: 41%;
+
+}
+
+
+
+.skill{
+background-color: rgb(134, 148, 156);
+    color:white;
+    padding: 8px;
+    display: inline-block;
+    margin: 8px;
+    border-radius: 10px;
+}
+#skill9{
+    margin: 0px;
+}
+ #skill8{
+
+    margin: 0px;
+ }
+
+.sub1{
+    
+    padding-top: 30px;
+    
+}
+
+.edu{
+padding-top: 50px;
+
+}
